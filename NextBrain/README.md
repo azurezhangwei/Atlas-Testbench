@@ -50,3 +50,8 @@ GMM_MODE (optional): gaussian mixture model (GMM) model must be 1mm unless you d
 ./mri_histo_atlas_segment /your_path/HCP/100307/T1w/T1w_acpc_dc_restore_brain.nii.gz /your_path/atlas_testbench/100307 full 1 -1
 ```
 
+## Time consumption
+
+For one subject in HCP, 1 hour on GPU, 1.5 days on CPU.
+
+
