@@ -7,5 +7,7 @@ We collected their code and tested them, then the operation document of them wer
 ## What atlases in there:
 
 - FreeSurfer NextBrain
-
+- HCP-MMP1.0
+- Brainnetome Atlas
+- Yeo_JNeurophysiol11
 
