@@ -34,7 +34,13 @@ https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurfer
 https://surfer.nmr.mgh.harvard.edu/fswiki/recon-all
 https://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial/TroubleshootingData
 
-Subject list. Create a text file(sublist.txt, for example) where identifiers of the desired target subjects (named exactly as their corresponding names in $SUBJECTS_DIR) are listed.
+Subject list. Create a text file(sublist.txt, for example) where identifiers of the desired target subjects (named exactly as their corresponding names in $SUBJECTS_DIR) are listed. It should be something that looks like:
+  ```shell
+  sub01
+  sub02
+  sub03
+
+  ```
 
 Shell script.Copy create_subj_volume_parcellation.sh and add it to $SUBJECTS_DIR.
 
