@@ -2,7 +2,7 @@
 
 > Official website: https://atlas.brainnetome.org/index.html
 
-According to the [FreeSurfer document](https://surfer.nmr.mgh.harvard.edu/fswiki/HistoAtlasSegmentation), [Brainnetome Guides](https://atlas.brainnetome.org/download.html) and a github [repo](https://github.com/tannerjared/HCP-MMP1) that converts the Connectome Workbench files to volume masks in native structural space and generates look up tables,
+According to the [FreeSurfer document](https://surfer.nmr.mgh.harvard.edu/fswiki/HistoAtlasSegmentation), [Brainnetome Guides](https://atlas.brainnetome.org/download.html) and a [github repo](https://github.com/tannerjared/HCP-MMP1) that converts the Connectome Workbench files to volume masks in native structural space and generates look up tables,
 the simplified document to install and use:
 
 ## OS
