@@ -1,7 +1,7 @@
-# Yeo_JNeurophysiol11
+# Yeo_2011
 > Official website: https://surfer.nmr.mgh.harvard.edu/fswiki/CorticalParcellation_Yeo2011
 
-According to the [FreeSurfer document](https://surfer.nmr.mgh.harvard.edu/fswiki/HistoAtlasSegmentation), [Brainnetome Guides](https://atlas.brainnetome.org/download.html) and a github [repo](https://github.com/tannerjared/HCP-MMP1) that converts the Connectome Workbench files to volume masks in native structural space and generates look up tables,
+According to the [FreeSurfer document](https://surfer.nmr.mgh.harvard.edu/fswiki/HistoAtlasSegmentation), [Yeo_2011 official page](https://surfer.nmr.mgh.harvard.edu/fswiki/CorticalParcellation_Yeo2011) and a [github repo](https://github.com/tannerjared/HCP-MMP1) that converts the Connectome Workbench files to volume masks in native structural space and generates look up tables,
 the simplified document to install and use:
 
 ## OS
